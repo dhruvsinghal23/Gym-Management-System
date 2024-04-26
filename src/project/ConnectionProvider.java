@@ -5,7 +5,7 @@ import java.sql.*;
 public class ConnectionProvider {
     private static final String URL = "jdbc:mysql://localhost:3306/gms";
     private static final String USER = "root";
-    private static final String PASSWORD = "Miz@2003";
+    private static final String PASSWORD = "123456";
 
     /**
      * Returns a database connection. Throws SQLException if connection fails.

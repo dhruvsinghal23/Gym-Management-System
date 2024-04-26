@@ -345,7 +345,7 @@ public class NewMember extends javax.swing.JFrame {
         String mothername = jTextField5.getText();
         String gymtime = (String) jComboBox2.getSelectedItem();
         String aadharnumber = jTextField6.getText();
-        String age = jLabel3.getText();
+        String age = jTextField7.getText();
         String amount = jTextField8.getText();
          // Check for null or empty values
         if (name == null || name.isEmpty() ||
